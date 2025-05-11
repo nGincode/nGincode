@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+[nGincode](/img/header.png)
+
+I'm nGincode, a programmer from Indonesia. I'm currently learning about web development.
+
+### My GitHub Stats
+
 <!--
 **nGincode/nGincode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
