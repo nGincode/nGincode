@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[nGincode](/img/header.png)
+![nGincode](/img/header.png)
 
 I'm nGincode, a programmer from Indonesia. I'm currently learning about web development.
 
